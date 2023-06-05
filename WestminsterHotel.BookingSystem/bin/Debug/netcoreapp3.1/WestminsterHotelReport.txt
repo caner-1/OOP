@@ -1,0 +1,13 @@
+Total Rooms : 6
+Room #:2003	Floor:20	Size:Triple	Price:203	Balcony Size:3	View:LandMarkView	
+
+Room #:1001	Floor:10	Size:Single	Price:101	Number of Windows: 1	
+
+Room #:1002	Floor:10	Size:Double	Price:102	Number of Windows: 1	
+
+Room #:1003	Floor:10	Size:Triple	Price:103	Number of Windows: 1	
+
+Room #:2001	Floor:20	Size:Single	Price:201	Balcony Size:1	View:SeaView	
+
+Room #:2002	Floor:20	Size:Double	Price:202	Balcony Size:2	View:MountainView	
+
